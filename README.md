@@ -6,8 +6,7 @@
 
 ### Reverse Engineering • Programming • Web Development
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Breaking+things+down.;Understanding+how+they+work.;Building+them+better." alt="Typing animation"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=18&duration=3500&pause=1200&color=FF2B2B&center=true&vCenter=true&width=700&lines=Breaking+things+down.;Understanding+how+they+work.;Building+them+better." alt="Typing animation"/>
 <br>
 
 <a href="https://github.com/biwncedevins">
