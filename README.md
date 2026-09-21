@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile.png" width="150" alt="ARES TEAM"/>
+<img src="./assets/ARES%20LOGO.png" width="150" alt="ARES TEAM"/>
 
 # ARES TEAM
 
